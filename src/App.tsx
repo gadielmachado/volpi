@@ -453,7 +453,7 @@ function VolpiLogo() {
         </div>
         <div className="[grid-area:1_/_1] font-['Lora:Medium',_sans-serif] font-medium leading-[19.7597px] ml-[71.828px] mt-0 relative text-[#ffffff] text-[17.2898px] text-left text-nowrap whitespace-pre">
           <p className="block mb-0">VOLPI</p>
-          <p className="block">INVESMENTS</p>
+          <p className="block">INVESTMENTS</p>
         </div>
         <div className="[grid-area:1_/_1] font-['Aeonik:Medium',_sans-serif] ml-[71.828px] mt-[37.873px] not-italic relative text-[#ffffff] text-[4.10125px] text-left text-nowrap tracking-[0.861263px]">
           <p className="adjustLetterSpacing block leading-[13.124px] whitespace-pre">
